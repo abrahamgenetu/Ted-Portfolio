@@ -3,7 +3,7 @@ A Visual Studio Code themed developer portfolio website built with Next.js and d
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/abrahamgenetu/Ted-Portfolio/public/portfolio.jpg"></img>
+    <img src="https://github.com/abrahamgenetu/Ted-Portfolio/blob/main/public/portfolio.jpg"></img>
   </kbd>
 </p>
 
