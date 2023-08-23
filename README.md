@@ -1,8 +1,12 @@
-![image](https://imgur.com/c0NnOEe) VScode Portfolio
-
+## Tewodros Genetu
 A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.
 
-![vscode-portfolio banner](https://imgur.com/c0NnOEe)
+<p align="center">
+  <kbd>
+    <img src="https://github.com/abrahamgenetu/Ted-Portfolio/public/portfolio.jpg"></img>
+  </kbd>
+</p>
+
 
 ## Environment Variables
 
