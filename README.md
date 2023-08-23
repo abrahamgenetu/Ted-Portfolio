@@ -1,4 +1,4 @@
-![image](https://imgur.com/c0NnOEe)# VScode Portfolio
+![image](https://imgur.com/c0NnOEe) VScode Portfolio
 
 A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.
 
