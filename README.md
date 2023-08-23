@@ -1,4 +1,4 @@
-![image](https://github.com/abrahamgenetu/Ted-Portfolio/assets/103524169/6e1ea3f7-9f73-4e05-90ad-1d8ddf8e6d26)# VScode Portfolio
+![image](https://imgur.com/c0NnOEe)# VScode Portfolio
 
 A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.
 
